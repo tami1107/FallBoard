@@ -1,0 +1,17 @@
+ファイル名,拡張子※ . を忘れないように,音の種類(SE or BGM),最大音量の指定(最大100.0)
+taitleBGM,.mp3,BGM,80
+determination,.mp3,SE,100
+selectBGM,.mp3,BGM,80
+choose,.mp3,SE,100
+cancel,.mp3,SE,100
+countStart,.mp3,SE,100
+countEnd,.mp3,SE,100
+mainBGM,.mp3,BGM,70
+attack,.mp3,SE,100
+playerDrop,.wav,SE,100
+fieldDrop,.mp3,SE,100
+fieldColorChange,.mp3,SE,100
+pause,.mp3,SE,100
+resurrection,.mp3,SE,100
+win,.mp3,SE,100
+resultBGM,.mp3,BGM,80

@@ -1,0 +1,5 @@
+﻿グラフィックファイルパス(※画像は８以上の２のｎ乗のピクセルサイズであり、右を向いている必要があります。),グラフィックスケール,使用するプレイヤー番号(※0から始まります。)
+Data/Graphic/Effect/attackEffect_0.png,5,1
+Data/Graphic/Effect/attackEffect_1.png,5,2
+Data/Graphic/Effect/attackEffect_2.png,5,3
+Data/Graphic/Effect/attackEffect_3.png,5,0
